@@ -10,3 +10,6 @@ steps:
   2. vagrant up
   
  
+   3. connectto the host
+   
+   4. execute the commnads from awxhost-setup.sh
